@@ -1,9 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
-int main() 
-{
+int main() {
     cout << "Hallo" << endl;
     int x = 0;
     if (x == 5) {
